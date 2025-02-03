@@ -1,2 +1,5 @@
-# project1
-this is the first project in github
+<<<<<<< HEAD
+Your local changes
+=======
+Remote changes from GitHub
+>>>>>>> db5eede
